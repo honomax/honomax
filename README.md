@@ -36,4 +36,8 @@
 
 ## 📘 Qiita記事
 [![My Qiita](https://qiita-badge.apiapi.app/s/Hoshinon/posts.svg)](https://qiita.com/Hoshinon)
-
+- [Pythonの基礎を学ぼう【#1】](https://qiita.com/Hoshinon/items/62a6ee416eaa4582e03e)
+- [Pythonの基礎を学ぼう【#2】](https://qiita.com/Hoshinon/items/72e0ef8873d042121c24)
+- [Pythonの基礎を学ぼう【#3】](https://qiita.com/Hoshinon/items/40cf457e318a5a9d707c)
+- [四則演算アプリを作ろう【Streamlit・Gradio】](https://qiita.com/Hoshinon/items/7f33569eeef0c3f2c85f)
+- [文字数カウントアプリを作ろう【Streamlit】](https://qiita.com/Hoshinon/items/96412960cab77dd8b88d)
