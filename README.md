@@ -31,3 +31,9 @@
 - 様々な場面に応用できる、汎用性の高いコードを意識
 - 再現性のある実験構成を重視
 - 図表やグラフを用いた視覚的なアウトプットを重視
+
+---
+
+## 📘 Qiita記事
+[![My Qiita](https://qiita-badge.apiapi.app/s/Hoshinon/posts.svg)](https://qiita.com/Hoshinon)
+
